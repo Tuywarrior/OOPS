@@ -29,11 +29,11 @@ What is a constructor?
 
   In c++,constructor is a special method which is invoked automatically at the time of object creation.It is used to initialize the data members of new object generally.
   
-  Default constructor
+  Default constructor(only shallow copy)
   
   Parameterized constructor
   
-  Copy constructor
+  Copy constructor(deep copy)
   
 
 What is Inheritance?
