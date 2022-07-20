@@ -57,7 +57,7 @@ What is **this** keyword in C++?
   
   It can be used to refer current class instance variable.
   
-  It can be used to declare indexes.
+  It can be used to declare indexers.
 
 What is **Inheritance**?
 
