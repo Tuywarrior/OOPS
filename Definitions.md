@@ -38,6 +38,14 @@ What is a constructor?
 What is a Destructor?
 
   A destructor works opposite to constructor; it destructs the objects of classes. It can be defined only once in a class. Like constructors, it is invoked automatically.
+  
+What is this keyword in C++?
+  
+  It can be used to pass current object as a parameter to another method.
+  
+  It can be used to refer current class instance variable.
+  
+  It can be used to declare indexes.
 
 What is Inheritance?
 
