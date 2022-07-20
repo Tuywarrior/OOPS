@@ -24,6 +24,9 @@ What is an object?
 What is a Class?
 
   A class is a user defined data type which has data members and functions.It is basically a blueprint of an object and is the main building block of OOPS.Its a logical   entity. 
+  
+What is a constructor?
+  In c++,constructor is a special method which is invoked automatically at the time of object creation.It is used to initialize the data members of new object generally.
 
 What is Inheritance?
 
