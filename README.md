@@ -11,7 +11,7 @@ c++ oops mainly has:
   
 ADVANTAGES OF OOPS:
   
-   OOPs makes development and maintenance easier where as in procedure-oriented programming language it is not easy to manage if code grows as project size grows.
+   OOPs makes development and maintenance of code easier where as in procedure-oriented programming language it is not easy to manage if code grows as project size          grows.
    
    OOPs provides data hiding unlike procedural programming languages.
    
@@ -19,7 +19,7 @@ ADVANTAGES OF OOPS:
   
 What is an object?
 
-  A real world entity that has state and behavior is called an object.Object can be considered as an intance of a class.Its a runtime entity and is created at runime.
+  A real world entity that has state and behavior is called an object.Object can be considered as an intance of a class.Its a runtime entity and is created at runtime.
 
 What is a Class?
 
