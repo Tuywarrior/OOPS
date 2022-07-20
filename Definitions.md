@@ -35,6 +35,9 @@ What is a constructor?
   
   Copy constructor(deep copy)
   
+What is a Destructor?
+
+  A destructor works opposite to constructor; it destructs the objects of classes. It can be defined only once in a class. Like constructors, it is invoked automatically.
 
 What is Inheritance?
 
