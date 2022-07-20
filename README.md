@@ -12,3 +12,4 @@ What is an object?
 A real world entity that has state and behavior is called an object.Object can be considered as an intance of a class.Its a runtime entity and is created at runime.
 
 What is a Class?
+A class is a user defined data type which has data members and functions.It is basically a blueprint of an object and is the main building block of OOPS. 
