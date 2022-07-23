@@ -76,4 +76,22 @@ What is **Inheritance**?
   HIERARCHICAL INHERITANCE,
   HYBRID INHERITANCE.**
   
+SYNTAX OF DERIVED CLASS:
+
+  **class** derivedclassname::visibilitymode baseclassname{
+  
+    //data
+    
+  }
+  
+**SINGLE INHERITANCE**:Derived class is inherited from only 1 base class.
+
+**Multilevel inheritance** is a process of deriving a class from another derived class.
+
+**Multiple inheritance** is the process of deriving a new class that inherits the attributes from two or more classes.
+
+**Hybrid inheritance** is a combination of more than one type of inheritance.
+
+**Hierarchical inheritance** is defined as the process of deriving more than one class from a base class.
+
 
