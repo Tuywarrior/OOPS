@@ -66,5 +66,14 @@ What is a friend function?
 
 What is **Inheritance**?
 
-  When one object acquires all the behavior and 
+  Inheritance is when one object acquires all the behavior and propertied of its parent object.In such way, you can reuse, extend or modify the attributes and behaviors which are defined in other class.
+  
+**TYPES OF INHERITANCE:
+
+  SINGLE INHERITANCE,
+  MULTIPLE INHERITANCE,
+  MULTILEVEL INHERITANCE,
+  HIERARCHICAL INHERITANCE,
+  HYBRID INHERITANCE.**
+  
 
