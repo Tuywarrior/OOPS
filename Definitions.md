@@ -95,3 +95,4 @@ SYNTAX OF DERIVED CLASS:
 **Hierarchical inheritance** is defined as the process of deriving more than one class from a base class.
 
 
+In C++, aggregation is a process in which one class defines another class as any entity reference. It is another way to reuse the class. It is a form of association that represents HAS-A relationship.
