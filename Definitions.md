@@ -59,6 +59,11 @@ What is **this** keyword in C++?
   
   It can be used to declare indexers.
 
+What is a friend function?
+ 
+  In c++ using friend function we can access the protected & private members of a class.
+
+
 What is **Inheritance**?
 
   When one object acquires all the behavior and 
