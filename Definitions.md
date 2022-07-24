@@ -96,3 +96,20 @@ SYNTAX OF DERIVED CLASS:
 
 
 In C++, aggregation is a process in which one class defines another class as any entity reference. It is another way to reuse the class. It is a form of association that represents HAS-A relationship.
+
+
+**POLYMORPHISM**
+
+  The term "Polymorphism" is the combination of "poly" + "morphs" which means many forms.In simple words,its an ability of a message to be displayed in more than one form.There are two types of polymorphism.
+  
+  1.compile-time polymorphism(function overloading & operator overloading)
+  
+  2.runtime-polymorphism(virtual function)
+  
+  
+ **Function overloading: **
+ When there are multiple function with same name but different parameters,then the function are said to be overloaded.
+
+**Operator overloading: **
+C++ allows the option to overload operators. For example,we can make use of the addition operator(+) for string class to concatenate two strings. We know that the task of this operator is to add two operands.So a single '+' operator adds them and when placed between string operands.
+
