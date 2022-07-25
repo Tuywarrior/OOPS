@@ -119,4 +119,5 @@ Runtime-Polimorphism:
 **Function-Overriding:** It occurs when a derived class has a definition for one of the member functions of base class. The base function is said to be overridden.
 
 
+![image](https://user-images.githubusercontent.com/87844490/180692603-ffd279bf-057c-48c4-b832-d0e55d4c68c6.png)
 
