@@ -116,7 +116,7 @@ C++ allows the option to overload operators. For example,we can make use of the 
 
 Runtime-Polimorphism:
 
-**Function-Overriding:** It occurs when a derived class has a definition for one of the member functions of base class. The base class is said to be overridden.
+**Function-Overriding:** It occurs when a derived class has a definition for one of the member functions of base class. The base function is said to be overridden.
 
 
 
