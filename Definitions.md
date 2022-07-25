@@ -110,9 +110,27 @@ In C++, aggregation is a process in which one class defines another class as any
   
  **Function overloading: **
  When there are multiple function with same name but different parameters,then the function are said to be overloaded.
+ 
+ The advantage of Function overloading is that it increases the readability of the program because you don't need to use different names for the same action.
+ 
+ Causes of **function overloading**:
+ 
+ Type conversion,Function with default arguments,Function with pass reference.
 
 **Operator overloading: **
 C++ allows the option to overload operators. For example,we can make use of the addition operator(+) for string class to concatenate two strings. We know that the task of this operator is to add two operands.So a single '+' operator adds them and when placed between string operands.
+
+**Operator that cannot be overloaded are as follows:**
+
+1.Scope operator(::)
+
+2.Sizeof
+
+3.member selector(.)
+
+4.member pointer selector(*)
+
+5.ternary operator(?:)
 
 Runtime-Polimorphism:
 
@@ -123,6 +141,23 @@ Runtime-Polimorphism:
 
 **Virtual Function :**A virtual function is a member function that is declared in the base class using the keyword virtual and is re-defined (Overriden) in the derived class. It tells the compiler to perform late binding where the compiler matches the object with the right called function and executes it during the runtime. This technique of falls under Runtime Polymorphism.
 
-Runtime polymorphism can be achieved via both irtual and non-virtual funciton.
+Runtime polymorphism can be achieved via both virtual and non-virtual funciton.
+
+
+**Abstraction :** Its a process to hide the internal details and showing functionality only.It can be achieved in 2 ways:
+
+1.Abstract class:A c++ class is made abstract by declaring inside it atleast one pure virtual function.
+
+2.Interface:The C++ interfaces are implemented using abstract classes and these abstract classes should not be confused with data abstraction which is a concept of keeping implementation details separate from associated data.
+
+**DATA ABSTRACTION** can be achieved in 2 ways:
+Abstraction using classes,Abstraction in header files.
+
+**Abstraction using classes:** A class is used to group all the data members and member functions into a single unit by using the access specifiers. A class has the responsibility to determine which data member is to be visible outside and which is not.
+
+**Abstraction in header files:** For example, pow() function available is used to calculate the power of a number without actually knowing which algorithm function uses to calculate the power. Thus, we can say that header files hides all the implementation details from the user.
+
+
+
 
 
