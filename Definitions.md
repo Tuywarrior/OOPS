@@ -106,10 +106,17 @@ In C++, aggregation is a process in which one class defines another class as any
   
   2.runtime-polymorphism(virtual function)
   
+ Compile-Time polymorphism:
   
  **Function overloading: **
  When there are multiple function with same name but different parameters,then the function are said to be overloaded.
 
 **Operator overloading: **
 C++ allows the option to overload operators. For example,we can make use of the addition operator(+) for string class to concatenate two strings. We know that the task of this operator is to add two operands.So a single '+' operator adds them and when placed between string operands.
+
+Runtime-Polimorphism:
+
+**Function-Overriding:** It occurs when a derived class has a definition for one of the member functions of base class. The base class is said to be overridden.
+
+
 
