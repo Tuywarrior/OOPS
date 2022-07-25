@@ -121,3 +121,5 @@ Runtime-Polimorphism:
 
 ![image](https://user-images.githubusercontent.com/87844490/180692603-ffd279bf-057c-48c4-b832-d0e55d4c68c6.png)
 
+**Virtual Function :**A virtual function is a member function that is declared in the base class using the keyword virtual and is re-defined (Overriden) in the derived class. It tells the compiler to perform late binding where the compiler matches the object with the right called function and executes it during the runtime. This technique of falls under Runtime Polymorphism.
+
